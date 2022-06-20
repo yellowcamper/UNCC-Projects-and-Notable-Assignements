@@ -2,7 +2,13 @@
 
 ## The number of lattice paths in an $n\times n$ grid ($n \ge 0$) from one corner to its opposite is $\begin{pmatrix} 2n \\ n \end{pmatrix}$
 1. Assume the start is the top left corner and the end is the bottom right corner.
-$$S-*-*\\|\;\;\;\;\;|\;\;\;\;\;|\\*-*-*\\|\;\;\;\;\;|\;\;\;\;\;|\\*-*-F$$
+$$
+S-*-*\\
+|\;\;\;\;\;|\;\;\;\;\;|\\
+*-*-*\\
+|\;\;\;\;\;|\;\;\;\;\;|\\
+*-*-F
+$$
 
 2. No cycles are allowed.
 3. Using the above rule on cycles, the path *MUST* at each point either go to the right or down.

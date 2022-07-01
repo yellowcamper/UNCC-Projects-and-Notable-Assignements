@@ -319,8 +319,8 @@ This representation is not the best that can be done for Binomial, as it is forg
 |$b$|$\left(3,b\right)$|Graphical|
 |:---:|:---:|:---:|
 |0|1|$*$|
-|1|3|$*\\/*\backslash\\*-*$|
-|2|6|$*\\/*\backslash\\*\,/*\backslash*\\/\,*\,-\,*\,\backslash\\*\;-\;*\;-\;*$|
+|1|4|$*\\/*\backslash\\*-*$|
+|2|10|$*\\/*\backslash\\*\,/*\backslash*\\/\,*\,-\,*\,\backslash\\*\;-\;*\;-\;*$|
 
 This can be generalized to a list of the maximum number of points points in an $a$-simplex of side length $b$ that are of distance $1$ from every other point. 
 
